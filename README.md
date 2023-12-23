@@ -7,7 +7,7 @@
 - MSSV: 52100312, Họ và tên: Lê Tuấn Thành
 
 ## Cấu trúc thư mục đồ án cuối kỳ:
-- Thư mục data gồm file data.csv: Tập dữ liệu được dùng trong dự án.
+- Tệp dataset.csv: Tập dữ liệu được dùng trong dự án.
 - Thư mục Question1 gồm:
     . 52100312_Question1_FinalProjectML.pdf: Bài làm bài 1 dự án của sinh viên Lê Tuấn Thành.
     . 52100306_Question1_FinalProjectML.pdf: Bài làm bài 1 dự án của sinh viên Nguyễn Khắc Anh Tài.
